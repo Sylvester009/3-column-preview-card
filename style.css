@@ -24,6 +24,8 @@ body {
   margin: 0 auto;
   padding: 25% 20px;
   background-color: var(--Verylightgray);
+  height: 100vh;
+  align-items: center;
 }
 
 .sedan {
